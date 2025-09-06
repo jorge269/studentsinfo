@@ -1,0 +1,9 @@
+{
+    "nombre": "Héctor Daniel Carabali Valencia",
+    "edad": 24,
+    "carrera": "Ingeniería Sistemas",
+    "semestre": 5,
+    "gustos": ["Futbol", "Video juegos", "Comida", "Viajar"],
+    "noGustos": ["climas extremos", "php"],
+    "foto": "https://avatars.githubusercontent.com/u/129810418?v=4"
+}
