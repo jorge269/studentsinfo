@@ -1,0 +1,11 @@
+{
+    "nombre": "Jorge Alvarez",
+    "edad": 22,
+    "carrera": "Ingenieria de Sistemas",
+    "semestre": 8,
+    "gustos": ["peliculas", "basquetbol", "nadar", "Caminar"],
+    "noGustos": ["higado", "futbol", "errores de programacion", "Tareas largas"],
+    "foto": "https://avatars.githubusercontent.com/u/82885655?v=4"
+}
+
+  
