@@ -1,0 +1,11 @@
+{
+    "nombre": "Cristian Pinzón",
+    "edad": 22,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos": ["Ir a cine", "Fútbol", "Nadar", "Cocinar"],
+    "noGustos": ["Frutas", "Insectos"],
+    "foto": "https://drive.google.com/file/d/1LV0V59lKyWfyB902-H26a0dE2iYhF0P0/view?usp=drive_link"
+}
+
+  
